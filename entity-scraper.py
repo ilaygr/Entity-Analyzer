@@ -27,7 +27,7 @@ Before we begin, you'll need an API key from TextRazor. Here's how to get it:
 
 Now that you have your API key, you can input it in the sidebar on the left, along with your target URL and search keywords.
 
-Let's get started! 😃
+Let's get started!!!! 😃
 """)
 
 
